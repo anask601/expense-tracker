@@ -4,9 +4,14 @@ import NewExpense from "./components/NewExpense";
 import ExpenseFilter from "./components/ExpenseFilter";
 
 const expenseData = [
-  { id: 1, title: "Bike", amount: 70000, date: new Date(2019, 5, 13) },
-  { id: 2, title: "MacBook", amount: 100000, date: new Date(2020, 8, 21) },
-  { id: 3, title: "iPhone", amount: 90000, date: new Date(2021, 4, 20) },
+  { id: 1, title: "Apple Watch", amount: 60000, date: new Date(2020, 5, 13) },
+  {
+    id: 2,
+    title: "Samsung Note 11",
+    amount: 150000,
+    date: new Date(2021, 8, 21),
+  },
+  { id: 3, title: "One Plus Nord", amount: 20000, date: new Date(2022, 1, 3) },
 ];
 
 function App() {

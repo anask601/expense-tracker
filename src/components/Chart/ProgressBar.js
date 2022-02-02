@@ -15,7 +15,7 @@ function ProgressBar(props) {
             className="inner"
             style={{
               height,
-              backgroundColor: "#61a6b0",
+              backgroundColor: "#596ce7",
             }}
           ></div>
         </div>
