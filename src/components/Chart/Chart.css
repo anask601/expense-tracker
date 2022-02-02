@@ -1,0 +1,16 @@
+.bars {
+  display: flex;
+
+  margin: 0 auto;
+
+  max-width: 52rem;
+
+  align-items: center;
+  justify-content: space-around;
+
+  background-color: #c9dfe0;
+
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+
+  border-radius: 12px;
+}
